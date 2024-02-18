@@ -1,0 +1,14 @@
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\MethodsTasks\MethodsTasks\bin\Debug\net6.0\MethodsTasks.exe
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\MethodsTasks\MethodsTasks\bin\Debug\net6.0\MethodsTasks.deps.json
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\MethodsTasks\MethodsTasks\bin\Debug\net6.0\MethodsTasks.runtimeconfig.json
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\MethodsTasks\MethodsTasks\bin\Debug\net6.0\MethodsTasks.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\MethodsTasks\MethodsTasks\bin\Debug\net6.0\MethodsTasks.pdb
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\MethodsTasks\MethodsTasks\obj\Debug\net6.0\MethodsTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\MethodsTasks\MethodsTasks\obj\Debug\net6.0\MethodsTasks.AssemblyInfoInputs.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\MethodsTasks\MethodsTasks\obj\Debug\net6.0\MethodsTasks.AssemblyInfo.cs
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\MethodsTasks\MethodsTasks\obj\Debug\net6.0\MethodsTasks.csproj.CoreCompileInputs.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\MethodsTasks\MethodsTasks\obj\Debug\net6.0\MethodsTasks.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\MethodsTasks\MethodsTasks\obj\Debug\net6.0\refint\MethodsTasks.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\MethodsTasks\MethodsTasks\obj\Debug\net6.0\MethodsTasks.pdb
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\MethodsTasks\MethodsTasks\obj\Debug\net6.0\MethodsTasks.genruntimeconfig.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\MethodsTasks\MethodsTasks\obj\Debug\net6.0\ref\MethodsTasks.dll
